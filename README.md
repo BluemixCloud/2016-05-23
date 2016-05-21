@@ -4,7 +4,7 @@
 ![Watson](images/watson.gif)
 ![IBM Bluemix](images/ibm.jpg)
 
-## Cohort 2016-04-11
+## Cohort 2016-05-23
 
 ### Food Schedule
   - Monday: 8am - 5pm (Breakfast and Lunch served)
