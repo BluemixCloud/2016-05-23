@@ -472,6 +472,7 @@ function drawChart(tweets){
     - [Slack Outgoing Webhooks](https://api.slack.com/outgoing-webhooks)
     - [Weather Service](http://openweathermap.org/current)
     - [Weather Service Key](http://home.openweathermap.org/users/sign_up)
+    - [Weather API Key](https://home.openweathermap.org/api_keys)
   - Fork and Clone the [Fullstack Template](https://hub.jazz.net/project/chyld/full-stack-template)
   - User opens a slack channel, asks for the current weather for their zip code
   - Slack -> Express -> OpenWhisk -> Weather Service
